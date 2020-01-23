@@ -324,7 +324,7 @@ __webpack_require__.r(__webpack_exports__);
 
 let AppComponent = class AppComponent {
     constructor() {
-        this.title = 'Test mbg - DONE WITH JENKINS PIPEPLINE!';
+        this.title = 'Test mbg - TRIGGERS TEST';
     }
 };
 AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
@@ -444,7 +444,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Program Files (x86)\Jenkins\workspace\mbg-publish_master\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Program Files (x86)\Jenkins\workspace\mbg-publish\src\main.ts */"./src/main.ts");
 
 
 /***/ })

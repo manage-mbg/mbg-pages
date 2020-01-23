@@ -715,7 +715,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var AppComponent = function AppComponent() {
       _classCallCheck(this, AppComponent);
 
-      this.title = 'Test mbg - DONE WITH JENKINS PIPEPLINE!';
+      this.title = 'Test mbg - TRIGGERS TEST';
     };
 
     AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
@@ -902,7 +902,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! C:\Program Files (x86)\Jenkins\workspace\mbg-publish_master\src\main.ts */
+    /*! C:\Program Files (x86)\Jenkins\workspace\mbg-publish\src\main.ts */
     "./src/main.ts");
     /***/
   }
