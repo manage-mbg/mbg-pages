@@ -324,7 +324,7 @@ __webpack_require__.r(__webpack_exports__);
 
 let AppComponent = class AppComponent {
     constructor() {
-        this.title = 'Test mbg - TRIGGERS TEST';
+        this.title = 'IS IT WORKING NOW?';
     }
 };
 AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
